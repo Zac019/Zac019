@@ -12,7 +12,7 @@
 ## 📊 Mis Proyectos Principales
 
 * 🌌 **Vortex-Bot** – Un bot de Discord optimizado, robusto y diseñado a medida para la gestión avanzada de comunidades.
-* 🛠️ **VoidHubCore / Void-Bot** – Infraestructura modular en Java y herramientas esenciales para la gestión interna de servidores de Minecraft.
+* 🛠️ **Void-Bot** – Infraestructura modular en Java y herramientas esenciales para la gestión de servidores de Discord.
 * 📱 **TikPluss+** – Automatización inteligente y bot de Discord enfocado en la gestión, tracking y alertas de videos de TikTok.
 
 ---
