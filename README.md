@@ -29,9 +29,7 @@
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [SoyZac](https://github.com/Zac019)
 
-Last Edited on: 29/4/2023
+Last Edited on: 1/7/2026
