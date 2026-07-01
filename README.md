@@ -7,7 +7,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,html,java,js,nextjs,nodejs,py,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,github,html,java,js,nextjs,nodejs,py,vscode&perline=14" />
   </a>
 </p>
 
