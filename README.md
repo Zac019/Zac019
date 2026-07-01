@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy SoyZac 👋</h1>
+  <h1>¡Hola! Soy Zac 👋</h1>
   <p><i>Desarrollador enfocado en la creación de herramientas y el desarrollo de infraestructura para comunidades y servidores.</i></p>
 
   <!-- GitHub Stats Badges -->
