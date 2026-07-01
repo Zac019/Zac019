@@ -46,6 +46,12 @@
 
 * **Discord:** `19K2`
 * **Créditos:** [SoyZac](https://github.com/Zac019)
+  
+<div align="center">
+
+<a href="https://discord.com/users/694183718163578920">
+<img src="https://lanyard.cnrad.dev/api/694183718163578920?bg=181825&idleMessage=Tu%20mensaje%20personalizado..." width="100%">
+</a>
 
 <div align="center">
   <br />
