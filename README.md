@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,html,java,js,nextjs,nodejs,py,vscode,idea&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=discord,github,html,java,js,nodejs,py,vscode,idea&perline=10" alt="My Skills" />
   </a>
 </p>
 
