@@ -27,7 +27,7 @@
 </p>
 
 ### ⚙️ Backend & Desarrollo
-* **Lenguajes:** JavaScript (ES6+), Python, Java, HTML5
+* **Lenguajes:** JavaScript, Python, Java, HTML5
 * **Entornos y Frameworks:** Node.js, Next.js
 * **IDE & Herramientas:** Git, GitHub Desktop, VS Code, IntelliJ IDEA
 
