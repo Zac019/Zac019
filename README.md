@@ -2,11 +2,6 @@
   <h1>¡Hola! Soy Zac 👋</h1>
   <p><i>Desarrollador enfocado en la creación de herramientas y el desarrollo de infraestructura para comunidades y servidores.</i></p>
 
-  <!-- GitHub Stats Badges -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zac019&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zac019&theme=dark&hide_border=true&background=0D1117&ring=9F7AEA&fire=9F7AEA&currStreakNum=C9D1D9" height="150" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 📊 Mis Proyectos Principales
